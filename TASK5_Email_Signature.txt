@@ -1,0 +1,213 @@
+# TASK 5: PROFESSIONAL EMAIL SIGNATURE
+## Muo Marvis Somtochukwu, B.Pharm — Integra Research & Business Solutions
+
+---
+
+## PLAIN TEXT VERSION
+
+Copy and paste this into your email client (Gmail, Outlook, Thunderbird plain text mode):
+
+--------------------------------------------------------------------------------
+
+Muo Marvis Somtochukwu, B.Pharm
+Founder & Research Specialist
+Integra Research and Business Solutions
+
+📧 marvismuo@gmail.com
+🌐 https://marvismuo-maker.github.io/integra-website/
+🆔 ORCID: 0000-0003-0295-0504
+💬 WhatsApp: [YOUR WHATSAPP NUMBER]
+
+Medical Manuscript Preparation | Fast Acceptance | ≤$150 APC | ≤5 Weeks Review
+
+---
+🎯 FREE PUBLICATION ANALYSIS — Send us your dissertation or research topic
+
+--------------------------------------------------------------------------------
+
+---
+
+## HTML VERSION (For Gmail, Outlook, Apple Mail)
+
+Copy and paste this into your email signature settings:
+
+--------------------------------------------------------------------------------
+
+```html
+<table cellpadding="0" cellspacing="0" border="0" style="font-family: 'Segoe UI', Arial, sans-serif; font-size: 14px; color: #333333; line-height: 1.6; max-width: 600px;">
+  <tr>
+    <td style="border-left: 4px solid #c9a227; padding-left: 15px;">
+      <p style="margin: 0 0 5px 0; font-size: 18px; font-weight: 700; color: #1a2a3a;">
+        Muo Marvis Somtochukwu, B.Pharm
+      </p>
+      <p style="margin: 0 0 2px 0; font-size: 14px; color: #2c3e50; font-weight: 600;">
+        Founder & Research Specialist
+      </p>
+      <p style="margin: 0 0 15px 0; font-size: 13px; color: #c9a227; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">
+        Integra Research and Business Solutions
+      </p>
+      
+      <table cellpadding="0" cellspacing="0" border="0" style="margin-bottom: 12px;">
+        <tr>
+          <td style="padding-right: 15px;">
+            <a href="mailto:marvismuo@gmail.com" style="color: #1a2a3a; text-decoration: none; font-size: 13px;">📧 marvismuo@gmail.com</a>
+          </td>
+          <td style="padding-right: 15px;">
+            <a href="https://marvismuo-maker.github.io/integra-website/" style="color: #1a2a3a; text-decoration: none; font-size: 13px;">🌐 Website</a>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding-right: 15px; padding-top: 5px;">
+            <a href="https://orcid.org/0000-0003-0295-0504" style="color: #1a2a3a; text-decoration: none; font-size: 13px;">🆔 ORCID</a>
+          </td>
+          <td style="padding-right: 15px; padding-top: 5px;">
+            <a href="https://wa.me/234XXXXXXXXXX" style="color: #1a2a3a; text-decoration: none; font-size: 13px;">💬 WhatsApp</a>
+          </td>
+        </tr>
+      </table>
+      
+      <p style="margin: 0 0 12px 0; font-size: 12px; color: #2c3e50; font-weight: 600; letter-spacing: 0.5px;">
+        Medical Manuscript Preparation | Fast Acceptance | ≤$150 APC | ≤5 Weeks Review
+      </p>
+      
+      <table cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td style="background: #1a2a3a; border-radius: 6px; padding: 8px 16px;">
+            <a href="https://marvismuo-maker.github.io/integra-website/contact.html" style="color: #c9a227; text-decoration: none; font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">
+              🎯 Free Publication Analysis
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+```
+
+--------------------------------------------------------------------------------
+
+---
+
+## GMAIL SETUP INSTRUCTIONS
+
+1. Open Gmail → Settings (gear icon) → See all settings
+2. Scroll to "Signature" section
+3. Click "Create new" or edit existing
+4. Name it "Integra Professional"
+5. Switch to the HTML editor (if available) or paste the plain text version
+6. For the HTML version:
+   - Copy the HTML code above
+   - Use a tool like htmlsig.com or paste directly if Gmail supports HTML
+   - Alternatively, use the plain text version and add formatting manually
+7. Set as default for new emails
+8. Save changes
+
+**Tip:** Gmail sometimes strips complex HTML. If the HTML version doesn't render well, use the **plain text version** with manual bold/italic formatting in Gmail's rich text editor.
+
+---
+
+## OUTLOOK SETUP INSTRUCTIONS
+
+1. Open Outlook → File → Options → Mail
+2. Click "Signatures..."
+3. Click "New" → Name: "Integra Professional"
+4. In the editor:
+   - For plain text: Paste the plain text version
+   - For HTML: Paste the HTML code into the HTML editor (or use the formatted text editor to recreate the styling)
+5. Set as default for new messages and replies/forwards
+6. Click OK → OK
+
+**Outlook Tip:** Outlook supports rich text signatures well. You can manually format the plain text version using Outlook's editor with:
+- Name: 18pt, bold, color #1a2a3a
+- Title: 14pt, semi-bold, color #2c3e50
+- Company: 13pt, bold, uppercase, color #c9a227
+- Details: 13pt, color #333333
+- CTA button: Dark background (#1a2a3a), gold text (#c9a227)
+
+---
+
+## APPLE MAIL SETUP INSTRUCTIONS
+
+1. Open Mail → Preferences → Signatures
+2. Click "+" to create new signature
+3. Name: "Integra Professional"
+4. Paste the plain text version
+5. Format using the formatting toolbar:
+   - Name: Bold, 18pt
+   - Company: Bold, gold color
+   - Add hyperlinks to email, website, ORCID, WhatsApp
+6. Close preferences
+
+---
+
+## MOBILE EMAIL APPS
+
+For mobile (iOS Mail, Gmail app, Outlook app):
+
+**Recommended:** Use a simplified version:
+
+```
+Muo Marvis Somtochukwu, B.Pharm
+Founder & Research Specialist | Integra Research
+
+📧 marvismuo@gmail.com
+🌐 https://marvismuo-maker.github.io/integra-website/
+🆔 ORCID: 0000-0003-0295-0504
+
+Medical Manuscript | ≤$150 APC | 100% Acceptance
+```
+
+Mobile email clients often strip complex HTML. A clean, short signature performs better on phones.
+
+---
+
+## LINKEDIN-STYLE ICON LINKS (For advanced HTML signatures)
+
+If your email client supports image icons, replace the emoji with these linked icons:
+
+**LinkedIn:**
+```html
+<a href="https://linkedin.com/company/integra-research-business-solutions">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" height="20" alt="LinkedIn">
+</a>
+```
+
+**WhatsApp:**
+```html
+<a href="https://wa.me/234XXXXXXXXXX">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="20" height="20" alt="WhatsApp">
+</a>
+```
+
+**ORCID:**
+```html
+<a href="https://orcid.org/0000-0003-0295-0504">
+  <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" width="20" height="20" alt="ORCID">
+</a>
+```
+
+**Website:**
+```html
+<a href="https://marvismuo-maker.github.io/integra-website/">
+  <img src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" width="20" height="20" alt="Website">
+</a>
+```
+
+**Note:** Some email clients block external images. Use emoji (📧 🌐 🆔 💬) as fallbacks for better compatibility.
+
+---
+
+## EMAIL SIGNATURE CHECKLIST
+
+- [ ] Copy plain text version (safe for all clients)
+- [ ] Copy HTML version (for Gmail/Outlook web)
+- [ ] Replace [YOUR WHATSAPP NUMBER] with actual number (format: 2348XXXXXXXX)
+- [ ] Add signature to Gmail
+- [ ] Add signature to Outlook (desktop)
+- [ ] Add signature to Outlook (web)
+- [ ] Add signature to Apple Mail (if applicable)
+- [ ] Add mobile-optimized version to phone email apps
+- [ ] Test by sending yourself an email
+- [ ] Verify all links work (website, ORCID, WhatsApp, email)
+- [ ] Check rendering on mobile devices
+- [ ] Update signature if website URL changes

@@ -1,0 +1,9 @@
+{
+  "action": "navigate",
+  "args": {
+    "url": "https://github.com/marvismuo-maker/integra-website/settings/pages",
+    "newTab": true,
+    "group_title": "Integra Website Deploy"
+  },
+  "session": "integra-deploy"
+}

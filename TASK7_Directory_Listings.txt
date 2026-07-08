@@ -1,0 +1,305 @@
+# TASK 7: DIRECTORY LISTINGS RESEARCH
+## Integra Research & Business Solutions — 15 Free Online Directories
+
+---
+
+## COMPLETE DIRECTORY LIST
+
+### 1. NG Business Directory (Nigeria)
+- **URL:** https://www.ngbusinessdirectory.com/
+- **Cost:** Free basic listing
+- **Category:** Nigerian business directory
+- **Relevance:** High — Nigeria-specific, Port Harcourt listings visible
+- **Action:** Create listing with business name, category, description, contact info
+- **Notes:** Allows articles publishing; good for SEO backlink
+
+### 2. VConnect Nigeria
+- **URL:** https://www.vconnect.com/
+- **Cost:** Free basic listing
+- **Category:** Nigerian business directory
+- **Relevance:** High — one of Nigeria's largest business directories
+- **Action:** Register, verify via phone, add services and photos
+- **Notes:** Strong local search presence; good for Port Harcourt visibility
+
+### 3. BusinessList.com.ng
+- **URL:** https://businesslist.com.ng/
+- **Cost:** Free
+- **Category:** Nigerian business directory
+- **Relevance:** High — Nigeria-focused B2B directory
+- **Action:** Create company profile, add services, contact details
+- **Notes:** Allows product/service listings; good for research services category
+
+### 4. Nairaland (Services Section)
+- **URL:** https://www.nairaland.com/ (Services/SEO section)
+- **Cost:** Free
+- **Category:** Nigerian forum/community
+- **Relevance:** Medium-High — massive Nigerian traffic; create a service thread
+- **Action:** Create a detailed service offer thread in appropriate section
+- **Notes:** Follow forum rules; don't spam; update thread weekly
+
+### 5. LinkedIn Company Directory
+- **URL:** https://linkedin.com/company/integra-research-business-solutions
+- **Cost:** Free
+- **Category:** Professional network / B2B directory
+- **Relevance:** Very High — where your clients (researchers, doctors) are
+- **Action:** Complete company page (see Task 3 for full content)
+- **Notes:** Essential for credibility; allows posts, articles, job listings
+
+### 6. Google Business Profile
+- **URL:** https://business.google.com/
+- **Cost:** Free
+- **Category:** Local business directory / search
+- **Relevance:** Very High — appears in Google Search and Maps
+- **Action:** Create profile, verify via postcard/phone, add all details (see Task 2)
+- **Notes:** Most important directory for local discovery
+
+### 7. ResearchGate (Service Provider)
+- **URL:** https://www.researchgate.net/
+- **Cost:** Free
+- **Category:** Academic research network
+- **Relevance:** Very High — where researchers find collaborators and services
+- **Action:** Create personal profile as "Publication Consultant"; add publications
+- **Notes:** Add 6 publications; connect with Nigerian researchers; answer questions
+
+### 8. Academia.edu
+- **URL:** https://www.academia.edu/
+- **Cost:** Free basic
+- **Category:** Academic network / research platform
+- **Relevance:** High — researchers search for papers and experts here
+- **Action:** Create profile, upload publication samples, list expertise
+- **Notes:** Good for demonstrating expertise; add "Medical Manuscript Preparation" as skill
+
+### 9. Fiverr (Freelance Platform)
+- **URL:** https://www.fiverr.com/
+- **Cost:** Free to list; 20% commission on orders
+- **Category:** Freelance services marketplace
+- **Relevance:** Medium-High — global clients search for "medical writing" and "manuscript preparation"
+- **Action:** Create gig: "I will prepare your medical manuscript for journal submission"
+- **Notes:** Price competitively ($50-100 starting); build reviews over time
+
+### 10. Upwork (Freelance Platform)
+- **URL:** https://www.upwork.com/
+- **Cost:** Free to apply; service fees apply
+- **Category:** Freelance platform
+- **Relevance:** Medium-High — high-value clients, good for medical writing niche
+- **Action:** Create profile as "Medical Research Writer & Publication Consultant"
+- **Notes:** Focus on Nigerian medical research context as unique selling point
+
+### 11. Editage / Cactus Communications (Service Provider Network)
+- **URL:** https://www.editage.com/ (or similar: enago.com, americanjournalexperts.com)
+- **Cost:** Free to apply as freelancer
+- **Category:** Academic editing services directory
+- **Relevance:** High — established academic editing platforms hire freelancers
+- **Action:** Apply as freelance medical editor/manuscript preparer
+- **Notes:** Good for credibility; they provide client flow
+
+### 12. Doaj.org (Directory of Open Access Journals) — Partner/Service Provider
+- **URL:** https://doaj.org/
+- **Cost:** Free
+- **Category:** Journal indexing directory
+- **Relevance:** High — demonstrate you understand the journal ecosystem
+- **Action:** Not a listing for you, but reference this in your materials; create content about verified journals
+- **Notes:** Use DOAJ verification as a credibility marker in all marketing
+
+### 13. Nigerian Medical Association (NMA) — Member Services Directory
+- **URL:** https://nmanet.org/ (or state chapters)
+- **Cost:** Membership required
+- **Category:** Medical professional network
+- **Relevance:** Very High — direct access to your target clients (doctors)
+- **Action:** If not a member, consider joining; list services in member directory
+- **Notes:** Rivers State NMA chapter particularly relevant for Port Harcourt
+
+### 14. Pharmaceutical Society of Nigeria (PSN) — Member Directory
+- **URL:** https://psnnational.org/
+- **Cost:** Membership required
+- **Category:** Pharmacy professional network
+- **Relevance:** Very High — Marvis is a pharmacist; direct access to pharmacy researchers
+- **Action:** List services in PSN member directory; present at PSN conferences
+- **Notes:** Strong credibility boost; pharmacists are key referral sources
+
+### 15. Africa Business Directory (African Union)
+- **URL:** https://au.int/ (business directory sections)
+- **Cost:** Free
+- **Category:** Pan-African business directory
+- **Relevance:** Medium — broader reach, good for pan-African researcher clients
+- **Action:** Submit business listing if open to non-members
+- **Notes:** Good for credibility and backlink; less direct client flow
+
+---
+
+## TOP 5 DIRECTORY LISTINGS — COMPLETE COPY-PASTE CONTENT
+
+### LISTING 1: Google Business Profile
+
+**Business Name:** Integra Research and Business Solutions
+**Category:** Research Services
+**Secondary Category:** Medical Writing Service
+**Description:**
+Integra Research and Business Solutions helps Nigerian medical researchers publish their work in verified, indexed journals — fast and affordably. We specialize in manuscript preparation, journal selection, statistical audits, and publication proposal development. With a 100% acceptance rate across 6 publications, review times under 14 days, and APCs capped at $150, we make publication accessible to researchers in low-resource settings. Founded by pharmacist and researcher Marvis Muo in Port Harcourt, we serve clients across Nigeria remotely. Get a free publication analysis today.
+
+**Services:** Medical Manuscript Preparation, Journal Selection & Verification, Statistical Analysis & Data Audit, Publication Proposal Development, Conference Presentation Design, Procurement Documentation
+**Phone:** [YOUR NUMBER]
+**Email:** marvismuo@gmail.com
+**Website:** https://marvismuo-maker.github.io/integra-website/
+**Hours:** Mon-Fri 8AM-6PM, Sat 9AM-2PM
+**Service Area:** All of Nigeria
+
+---
+
+### LISTING 2: LinkedIn Company Page
+
+**Company Name:** Integra Research and Business Solutions
+**Tagline:** Medical manuscript preparation for Nigerian researchers. Verified journals. ≤$150 APC. 100% acceptance.
+**Industry:** Research Services
+**Company Size:** 1-10 employees
+**Headquarters:** Port Harcourt, Rivers State, Nigeria
+**Website:** https://marvismuo-maker.github.io/integra-website/
+**Specialties:** Medical Manuscript Preparation, Journal Selection & Verification, Academic Publishing Consulting, Statistical Analysis & Data Audit, Dissertation-to-Publication Conversion, Publication Proposal Development, Conference Presentation Design, Medical Writing Services, Research Ethics Compliance, Predatory Journal Detection, APC Optimization, Indexing Verification (DOAJ, PubMed, Scopus), Medical Research Support Nigeria, Clinical Research Documentation, Procurement Documentation
+**About:** [See Task 3 for full 2,000+ character version]
+
+---
+
+### LISTING 3: NG Business Directory
+
+**Business Name:** Integra Research and Business Solutions
+**Category:** Business Services / Research & Development
+**Description:**
+Integra Research and Business Solutions is a Port Harcourt-based publication support firm serving medical researchers across Nigeria. We specialize in manuscript preparation, journal selection, statistical audits, and dissertation-to-publication conversion. Our verified journal bank includes only indexed journals with APCs under $150 and review times under 5 weeks. We maintain a 100% acceptance rate across 6 publications. Services are delivered remotely nationwide. Contact us for a free publication analysis.
+
+**Contact:**
+- Email: marvismuo@gmail.com
+- Website: https://marvismuo-maker.github.io/integra-website/
+- Location: Port Harcourt, Rivers State, Nigeria
+- Service Area: All of Nigeria
+
+**Keywords:** medical manuscript preparation, journal selection Nigeria, publication support, academic writing service, research consultancy Port Harcourt, medical editing Nigeria, dissertation publication, affordable APC journals
+
+---
+
+### LISTING 4: VConnect Nigeria
+
+**Business Name:** Integra Research and Business Solutions
+**Category:** Research Services / Consultancy
+**Description:**
+Helping Nigerian medical researchers publish in indexed journals. We offer end-to-end manuscript preparation, verified journal selection (APC ≤$150), statistical audits, and publication proposal development. Based in Port Harcourt, serving all Nigeria remotely. 100% acceptance rate. Free publication analysis available.
+
+**Services:**
+- Medical Manuscript Preparation & Submission
+- Journal Selection & Verification
+- Statistical Analysis & Data Integrity Check
+- Publication Proposal Development (Dissertation Conversion)
+- Conference Presentation Design
+- Procurement Documentation
+
+**Contact:** marvismuo@gmail.com
+**Website:** https://marvismuo-maker.github.io/integra-website/
+**Location:** Port Harcourt, Rivers State
+**Hours:** Mon-Fri 8AM-6PM, Sat 9AM-2PM
+
+---
+
+### LISTING 5: ResearchGate Profile
+
+**Name:** Marvis Muo Somtochukwu
+**Title:** Publication Consultant & Medical Research Specialist
+**Institution:** Integra Research and Business Solutions
+**Location:** Port Harcourt, Nigeria
+**About:**
+I help Nigerian medical researchers — doctors, pharmacists, nurses, and public health professionals — publish their work in verified, indexed journals. Through Integra Research and Business Solutions, I provide manuscript preparation, journal selection, statistical audits, and dissertation-to-publication conversion. 6 publications, 100% acceptance rate, APCs capped at $150. Remote service nationwide. Free publication analysis available. ORCID: 0000-0003-0295-0504.
+
+**Research Interests:** Medical Publication Support, Journal Selection, Academic Writing, Nigerian Health Research, Open Access Publishing, Predatory Journal Detection, Medical Manuscript Preparation
+
+**Publications:** [Add all 6 publications]
+**Skills:** Medical Writing, Journal Selection, Statistical Analysis, Publication Consulting, Research Ethics, Academic Editing, Manuscript Preparation, IMRAD Structure, APA Formatting, Reference Management
+
+---
+
+## BONUS: FREELANCE PLATFORMS LISTING CONTENT
+
+### Fiverr Gig Listing
+
+**Gig Title:** I will prepare your medical manuscript for journal submission
+
+**Description:**
+Are you a medical researcher struggling to turn your data into a publishable manuscript? I will prepare your manuscript for submission to verified, indexed journals.
+
+What you get:
+✅ Full IMRAD manuscript (Introduction, Methods, Results, Discussion)
+✅ Statistical integrity check
+✅ Reference formatting (APA/Vancouver)
+✅ Cover letter draft
+✅ Journal recommendation report (3 verified options)
+✅ 14-day turnaround
+
+About me:
+I'm a pharmacist and research specialist with 6 published papers and a 100% acceptance rate. I only recommend journals with APCs under $150, indexed in DOAJ/PubMed/Scopus, and verified non-predatory.
+
+Requirements:
+- Your research data, dissertation chapter, or study outline
+- Target word count and journal preference (if any)
+- Ethics approval information (for human/animal studies)
+
+**Packages:**
+- Basic: Abstract + Introduction ($50)
+- Standard: Full manuscript (up to 4,000 words) ($150)
+- Premium: Full manuscript + journal selection + submission support ($250)
+
+**Tags:** medical writing, manuscript preparation, journal submission, academic writing, medical research, publication support, scientific writing, research paper, IMRAD, Nigerian researcher
+
+---
+
+## DIRECTORY SUBMISSION CHECKLIST
+
+### Phase 1: Essential (Week 1)
+- [ ] Google Business Profile — create, verify, complete all fields
+- [ ] LinkedIn Company Page — create, add content, publish first post
+- [ ] ResearchGate — create personal profile, add 6 publications
+- [ ] WhatsApp Business — configure profile, catalog, messages
+
+### Phase 2: Important (Week 2)
+- [ ] NG Business Directory — submit free listing
+- [ ] VConnect Nigeria — register and verify
+- [ ] BusinessList.com.ng — create company profile
+- [ ] Academia.edu — create profile, upload samples
+
+### Phase 3: Expansion (Week 3-4)
+- [ ] Nairaland — create service thread (follow forum rules)
+- [ ] Fiverr — create gig, set competitive pricing
+- [ ] Upwork — create profile, apply to relevant jobs
+- [ ] PSN Member Directory — join/list if member
+- [ ] NMA Directory — join/list if member
+- [ ] Editage/Enago — apply as freelance editor
+
+### Phase 4: Ongoing
+- [ ] Update all listings if website URL changes
+- [ ] Add new publications to ResearchGate/Academia.edu
+- [ ] Respond to reviews on Google Business Profile
+- [ ] Refresh Nairaland thread weekly
+- [ ] Monitor Fiverr/Upwork for relevant job postings
+
+---
+
+## DIRECTORY LISTING SEO TIPS
+
+1. **Consistent NAP:** Name, Address, Phone must be identical across all listings
+2. **Keyword-rich descriptions:** Include "medical manuscript preparation Nigeria," "publication support Port Harcourt," "journal submission help," "academic publishing Nigeria"
+3. **Website link:** Always include https://marvismuo-maker.github.io/integra-website/
+4. **Backlinks:** Every directory listing is a backlink; prioritize do-follow links
+5. **Photos:** Upload professional photos where possible (headshot, workspace, logo)
+6. **Reviews:** Ask satisfied clients to leave reviews on Google Business Profile
+7. **Updates:** Refresh listings every 3 months with new publications or metrics
+
+---
+
+## EXPECTED OUTCOMES (90 Days)
+
+| Directory | Expected Impact |
+|-----------|-----------------|
+| Google Business Profile | 50-200 monthly profile views; 5-15 direct inquiries |
+| LinkedIn | 100-300 followers; 2-5 inbound leads/month |
+| ResearchGate | 50-200 profile views; collaboration requests |
+| NG Business Directory | 10-50 monthly views; SEO backlink value |
+| VConnect | 20-100 monthly views; local discovery |
+| Fiverr | 2-5 orders/month once reviews accumulate |
+| Nairaland | 500-2,000 thread views; direct WhatsApp inquiries |
+| WhatsApp Business | 5-15 direct inquiries/week |

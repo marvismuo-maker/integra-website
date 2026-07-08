@@ -1,0 +1,250 @@
+# TASK 4: WHATSAPP BUSINESS PROFILE — COMPLETE CONTENT PACKAGE
+## Integra Research & Business Solutions
+
+---
+
+## BUSINESS PROFILE INFORMATION
+
+| Field | Value |
+|-------|-------|
+| **Business Name** | Integra Research & Business Solutions |
+| **Category** | Medical Research Services |
+| **Description** | Medical manuscript preparation for Nigerian researchers. Verified journals, ≤$150 APC, 100% acceptance. Dissertation → publication. Free analysis. |
+| **Email** | marvismuo@gmail.com |
+| **Website** | https://marvismuo-maker.github.io/integra-website/ |
+| **Address** | Port Harcourt, Rivers State, Nigeria |
+| **Hours** | Mon-Fri 8AM-6PM, Sat 9AM-2PM |
+
+---
+
+## BUSINESS DESCRIPTION (139 characters)
+
+**Option A (Recommended):**
+"Medical manuscript prep for Nigerian researchers. Verified journals, ≤$150 APC, 100% acceptance. Dissertation→publication. Free analysis."
+*(139 characters)*
+
+**Option B:**
+"Publication support for medical researchers. Fast, affordable, ethical. Manuscript prep, journal selection, submission handling. Nigeria-wide."
+*(138 characters)*
+
+**Option C:**
+"Helping Nigerian doctors, pharmacists & nurses publish in indexed journals. 6 publications, 100% acceptance. Free consultation available."
+*(139 characters)*
+
+---
+
+## CATALOG ITEMS (5 Services)
+
+### 1. Manuscript Preparation & Submission
+**Price:** ₦150,000 – ₦300,000
+**Description:** Full 10-phase pipeline from your research data to submission-ready manuscript. Includes IMRAD structuring, statistical integrity checks, ethical compliance review, cover letter drafting, internal peer review, and complete submission handling via journal portals (ScholarOne, Editorial Manager, eJournalPress). You get a publication-ready manuscript + journal recommendation report + submission confirmation.
+
+### 2. Journal Selection & Verification
+**Price:** ₦30,000
+**Description:** We identify 3 verified journals matched to your research topic, meeting our strict criteria: APC ≤$150, review time ≤5 weeks, indexed in DOAJ/PubMed/Scopus, and confirmed non-predatory. Includes a 3-tier cascade strategy (primary, secondary, tertiary targets) with full journal profiles, APCs, acceptance rates, and submission requirements.
+
+### 3. Statistical Audit & Data Integrity Check
+**Price:** ₦50,000 – ₦100,000
+**Description:** Pre-submission verification of your data analysis including statistical test appropriateness, figure and table formatting, reproducibility documentation, missing data assessment, outlier handling review, and power analysis. Deliverable: audit report + corrected analysis + publication-ready figures.
+
+### 4. Publication Proposal (Dissertation Conversion)
+**Price:** ₦75,000
+**Description:** Transform your completed dissertation or thesis into 3-5 publishable papers. Includes chapter-to-paper mapping, scoping review, novelty assessment, 3-tier journal cascade design for each paper, 12-month timeline, and authorship framework. Ideal for PhD graduates and research fellows with unpublished work.
+
+### 5. Conference Presentation Design
+**Price:** ₦60,000
+**Description:** 30-slide evidence-based keynote or presentation for senior clinicians and researchers. Includes audience-adaptive content, evidence hierarchy visualization, branded slide templates (navy/gold), speaker notes, rehearsal guide, and publication-ready handout PDF.
+
+---
+
+## AUTOMATED GREETING MESSAGE
+
+**Trigger:** When customer first messages
+
+**Message:**
+
+👋 Welcome to Integra Research & Business Solutions!
+
+I'm Marvis Muo, pharmacist and research specialist. I help Nigerian medical researchers publish their work in verified, indexed journals — fast and affordably.
+
+*What we do:*
+✅ Manuscript preparation & submission
+✅ Journal selection & verification (APC ≤$150)
+✅ Statistical audits & data integrity checks
+✅ Dissertation-to-publication proposals
+✅ Conference presentation design
+
+*Our track record:*
+📄 6 publications | 100% acceptance rate
+⏱️ 14-day manuscript turnaround
+💰 All journals verified, indexed, affordable
+
+*Ready to start?*
+Tap one of the quick reply buttons below, or send me a message about your research.
+
+📧 Email: marvismuo@gmail.com
+🌐 Website: https://marvismuo-maker.github.io/integra-website/
+
+---
+
+## AWAY MESSAGE
+
+**Trigger:** Outside business hours (before 8AM, after 6PM weekdays; before 9AM, after 2PM Saturday; all day Sunday)
+
+**Message:**
+
+Hi! You've reached Integra Research & Business Solutions.
+
+I'm currently away from my desk. My working hours are:
+🕐 Monday–Friday: 8:00 AM – 6:00 PM
+🕐 Saturday: 9:00 AM – 2:00 PM
+🕐 Sunday: Closed
+
+I'll respond to your message as soon as I'm back — usually within a few hours during work hours.
+
+If this is urgent, please email me at marvismuo@gmail.com and I'll prioritize it.
+
+Thank you for reaching out — I look forward to helping you get published!
+
+— Marvis Muo
+Founder & Research Specialist
+
+---
+
+## QUICK REPLIES (6 Buttons)
+
+### 1. Pricing
+**Button Label:** 💰 Pricing
+**Response:**
+Our services are transparent and flat-fee:
+
+📝 Manuscript Prep & Submission: ₦150,000–₦300,000
+🔍 Journal Selection Only: ₦30,000
+📊 Statistical Audit: ₦50,000–₦100,000
+📄 Publication Proposal (Dissertation): ₦75,000
+🎯 Conference Presentation: ₦60,000
+
+*Note:* Journal APCs are paid separately by you directly to the journal — we never mark these up. Most journals we recommend charge $0–$150 (₦0–₦225,000).
+
+Want a free publication analysis first? It's no obligation and helps us give you an exact quote.
+
+---
+
+### 2. Timeline
+**Button Label:** ⏱️ Timeline
+**Response:**
+Here's our typical timeline:
+
+📋 Free analysis: 24 hours after you send your research
+✍️ Manuscript preparation: 7–14 days
+🔍 Journal selection: 2–3 days
+📤 Submission to first decision: 2–5 weeks
+🔄 Revisions (if needed): 3–7 days
+
+*Fastest result:* 6 days from submission to acceptance (Dr. Collins Ordu, IJRISS, $0 APC).
+
+Expedited service available for urgent submissions — ask me about it.
+
+---
+
+### 3. Journals
+**Button Label:** 📚 Journals
+**Response:**
+We only work with verified journals that meet ALL of these criteria:
+
+✅ Indexed in DOAJ, PubMed, or Scopus
+✅ APC ≤ $150 (₦225,000)
+✅ Review time ≤ 5 weeks
+✅ Confirmed non-predatory (verified via Beall's, DOAJ, Cabells)
+
+Examples from our verified bank:
+• IJRISS — $0 APC, 1-week review, PubMed
+• JAMMR — $50 APC, 2-week review, DOAJ
+• IJMDS — $50 APC, 2-week review, Scopus
+
+Every project gets a 3-tier cascade: primary target + 2 fallbacks. This maximizes your chances without wasting time.
+
+Want the full list? Let's schedule a free analysis.
+
+---
+
+### 4. Process
+**Button Label:** 🔄 How It Works
+**Response:**
+Our 5-step process:
+
+**1️⃣ Submit Your Data**
+Send us your dissertation, research data, or topic idea. We review within 24 hours.
+
+**2️⃣ We Prepare Your Manuscript**
+Our team crafts a publication-ready manuscript following IMRAD structure and journal guidelines.
+
+**3️⃣ We Find the Right Journal**
+We match your paper to verified, indexed journals with APCs under $150 and fast review times.
+
+**4️⃣ We Submit**
+We handle cover letters, author accounts, portal uploads, and all submission requirements.
+
+**5️⃣ Accepted**
+We track your paper through review, handle revisions, and celebrate with you.
+
+Start with a free publication analysis — no obligation.
+
+---
+
+### 5. Guarantee
+**Button Label:** ✅ Guarantee
+**Response:**
+We don't guarantee acceptance — no ethical service can. But here's what we DO guarantee:
+
+✅ Publication-ready manuscript meeting journal standards
+✅ Verified, appropriate journal match
+✅ Professional submission with all requirements met
+✅ Support through revisions at no extra charge
+✅ Resubmission to next journal in cascade if rejected
+
+Our current acceptance rate: 100% (6/6 publications). This reflects rigorous preparation and matching, not a miracle promise.
+
+If you're not satisfied with our manuscript quality, we'll revise until you are — before any submission happens.
+
+---
+
+### 6. Get Started
+**Button Label:** 🚀 Get Started
+**Response:**
+Great! To start your free publication analysis, please send me:
+
+1️⃣ Your research topic or dissertation title
+2️⃣ Your field (medicine, pharmacy, nursing, public health, etc.)
+3️⃣ Your target timeline (if any)
+4️⃣ Any journals you've already considered (optional)
+
+I'll review within 24 hours and send you:
+• Recommended journal shortlist
+• Estimated APCs and timelines
+• Service recommendation and quote
+• Next-step roadmap
+
+Or email me directly: marvismuo@gmail.com
+
+Let's get your research published! 🎯
+
+---
+
+## WHATSAPP BUSINESS SETUP CHECKLIST
+
+- [ ] Download WhatsApp Business app (separate from personal WhatsApp)
+- [ ] Register with your business phone number
+- [ ] Set business name: Integra Research & Business Solutions
+- [ ] Select category: Medical Research Services
+- [ ] Paste description (Option A recommended)
+- [ ] Add business hours: Mon-Fri 8AM-6PM, Sat 9AM-2PM
+- [ ] Add email: marvismuo@gmail.com
+- [ ] Add website: https://marvismuo-maker.github.io/integra-website/
+- [ ] Add address: Port Harcourt, Rivers State, Nigeria
+- [ ] Set greeting message (paste above)
+- [ ] Set away message (paste above) with schedule
+- [ ] Create 6 quick replies (paste above)
+- [ ] Add 5 catalog items with prices and descriptions
+- [ ] Upload profile photo (professional headshot or logo)
+- [ ] Set status: "Helping Nigerian researchers publish 📝 | Free analysis available 📧"
